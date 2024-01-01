@@ -1,1 +1,2 @@
 # Diabetes-Prediction
+In this project we made a machine learning model for the 768 females, whose 8 features namely no. of pregnancies, glucose level, blood pressure, insulin level, BMI, diabetes pedigree function, age and skin thikness were taken into account. A classification model namely SVM was made in which the prediction was there that if a person has diabetes then itis one, other wise it is o. Based on this prediction we prepared a web app on streamlit, which gave us the prediction of patient based on the above 8 features.
